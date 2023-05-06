@@ -1,5 +1,5 @@
-# _EASY GAME_
+# _EASY CALCULATOR_
 
-## Do you like game?
+## Do you need calculator?
 
-Go to page https://sofiiashevtsova.github.io/brainnest_JS/ and play for fun!
+Go to page https://sofiiashevtsova.github.io/brainnest_JS2/ and try it!
