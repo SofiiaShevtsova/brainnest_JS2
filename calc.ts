@@ -121,7 +121,6 @@ if (calcTable) {
         if (arrayForCalculator.indexOf(value) !== -1) {
           
             if (isNaN(+text[text.length - 1])) {
-            
           countState.setOperator(value);
           calkOutput.textContent = `${text.slice(0, text.length - 1)}`;
           showOutput(value);
